@@ -1,3 +1,3 @@
 MATLAB code supporting paper 
-"Local Acceleration of SCF iterations for unitarily invariant nonlinear eigenvalue problems with eigenvector dependency" 
-by Ding Lu and Tom Werner, submitted to SIMAX 
+"Anderson Acceleration of SCF iteration and Newton's method for solving nonlinear Eigenvector problems" 
+by Ding Lu, Tom Werner and Zhaojun Bai, submitted to SIMAX November 2026. 
